@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag</h1>
-<h3 align="center">A passionate App developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiragramesh25" alt="chiragramesh25" /></a> </p>
 
