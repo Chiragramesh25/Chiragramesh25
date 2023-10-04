@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chirag</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate Android Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiragramesh25" alt="chiragramesh25" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/chiragchandra25" target="blank"><img src="https://img.shields.io/twitter/follow/chiragchandra25?logo=twitter&style=for-the-badge" alt="chiragchandra25" /></a> </p>
+<img align="right" width="400" src="https://camo.githubusercontent.com/bebb8c335f407e6f31ed9da75ebecc86cebc8941efae0ec924b6903b3fbb94c5/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313537393332322f73637265656e73686f74732f363538373237332f626c75655f626f795f747970696e675f6e6f74686f756768742e676966"/>
 
 - 🌱 I’m currently learning **Flutter as an App developing Framework and Java as a language**
 
