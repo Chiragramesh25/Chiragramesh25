@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **chiragchandra25@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1fzzrtX68vxi6hdNDEun5jB0v7Kht7Lsv98hFn7WWGBY/edit?usp=sharing](https://docs.google.com/document/d/1fzzrtX68vxi6hdNDEun5jB0v7Kht7Lsv98hFn7WWGBY/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1fzzrtX68vxi6hdNDEun5jB0v7Kht7Lsv98hFn7WWGBY/edit?usp=sharing](https://docs.google.com/document/d/1zcGM3-hhRBujUVoevTKqDCVyvdngxrM9pdvcO3c6Upo/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
